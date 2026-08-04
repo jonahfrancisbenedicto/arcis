@@ -1,6 +1,10 @@
 # Arcis 
 Simulates projectiles motion
 
+## Math
+
+
+
 ## Contributions
 This repository is maintained by @jonahfrancisbenedicto
 1. **Fork** the Project
