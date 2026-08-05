@@ -9,12 +9,12 @@ p(t)=\begin{bmatrix} x \\ y \\ z \end{bmatrix}
 
 Velocity:
 ```math
-v(t)=\frac{dp}{dt}
+v(t)=p'(t)
 ```
 
 Acceleration:
 ```math
-a(t)=\frac{dv}{dt}
+a(t)=v'(t)
 ```
 
 
