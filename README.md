@@ -45,9 +45,13 @@ Newton's Second Law of Motion:
 F=ma
 ```
 
-Acceleration Due to Gravity
+Assumption: Acceleration Due to Gravity Only
 ```math
-F_z=-mg
+\begin{aligned}
+F_x&=0 \\
+F_y&=0 \\
+F_z&=-mg
+\end{aligned}
 ```
 
 ## Contributions
