@@ -17,6 +17,12 @@ Acceleration:
 a(t)=v'(t)
 ```
 
+Newton's Second Law of Motion and Acceleration Due to Gravity:
+```math
+F=ma
+F=m\begin{bmatrix} 0 \\ 0 \\ -g \end{bmatrix}
+
+```
 
 ## Contributions
 This repository is maintained by @jonahfrancisbenedicto
