@@ -4,12 +4,26 @@ Simulates projectiles motion
 ## Math
 Position:
 ```math
-p(t)=\begin{bmatrix} x \\ y \\ z \end{bmatrix}
+\begin{aligned}
+p=\begin{bmatrix} x \\ y \\ z \end{bmatrix} \\
+p_x&=x \\
+p_y&=y \\
+p_z&=z
+\end{aligned
 ```
 
 Velocity:
 ```math
-v(t)=p'(t)
+\begin{aligned}
+v&=\frac{dp}{dt} \\
+v_x&=\frac{dx}{dt} \\
+v_xdt&=dx \\
+v_xdt&=x_f-x_i \\
+v_xdt+x_i&=x_f \\
+x_f=v_xdt+x_i \\
+y_f=v_ydt+y_i \\
+z_f=v_zdt+z_i
+\end{aligned
 ```
 
 Acceleration:
@@ -17,11 +31,14 @@ Acceleration:
 a(t)=v'(t)
 ```
 
-Newton's Second Law of Motion and Acceleration Due to Gravity:
+Newton's Second Law of Motion:
 ```math
 F=ma
-F=m\begin{bmatrix} 0 \\ 0 \\ -g \end{bmatrix}
+```
 
+Acceleration Due to Gravity
+```math
+F_z=-mg
 ```
 
 ## Contributions
