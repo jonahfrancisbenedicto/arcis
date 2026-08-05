@@ -12,6 +12,11 @@ Velocity:
 v(t)=\frac{dp}{dt}
 ```
 
+Acceleration:
+```math
+a(t)=\frac{dv}{dt}
+```
+
 
 ## Contributions
 This repository is maintained by @jonahfrancisbenedicto
