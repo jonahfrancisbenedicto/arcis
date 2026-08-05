@@ -42,15 +42,15 @@ a_xdt+{v_x}_i&={v_x}_f \\
 
 Newton's Second Law of Motion:
 ```math
-F=ma
+F_{\text{net}}=ma
 ```
 
 Assumption: Acceleration Due to Gravity Only
 ```math
 \begin{aligned}
-F_x&=0 \\
-F_y&=0 \\
-F_z&=-mg
+a_x&=0 \\
+a_y&=0 \\
+a_z&=-g
 \end{aligned}
 ```
 
