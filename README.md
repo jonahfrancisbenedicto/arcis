@@ -5,10 +5,10 @@ Simulates projectiles motion
 Position:
 ```math
 \begin{aligned}
-p=\begin{bmatrix} x \\ y \\ z \end{bmatrix} \\
-p_x&=x \\
-p_y&=y \\
-p_z&=z
+p&=\begin{bmatrix} x \\ y \\ z \end{bmatrix} \\
+p_x=x \\
+p_y=y \\
+p_z=z
 \end{aligned}
 ```
 
