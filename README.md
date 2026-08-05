@@ -9,7 +9,7 @@ p=\begin{bmatrix} x \\ y \\ z \end{bmatrix} \\
 p_x&=x \\
 p_y&=y \\
 p_z&=z
-\end{aligned
+\end{aligned}
 ```
 
 Velocity:
@@ -23,7 +23,7 @@ v_xdt+x_i&=x_f \\
 x_f=v_xdt+x_i \\
 y_f=v_ydt+y_i \\
 z_f=v_zdt+z_i
-\end{aligned
+\end{aligned}
 ```
 
 Acceleration:
