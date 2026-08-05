@@ -28,6 +28,7 @@ z_f=v_zdt+z_i
 
 Acceleration:
 ```math
+\begin{aligned}
 a&=\frac{dv}{dt} \\
 a_x&=\frac{dv_x}{dt} \\
 a_xdt&=dv_x \\
@@ -36,6 +37,7 @@ a_xdt+v_x_i&=v_x_f \\
 v_x_f=a_xdt+v_x_i \\
 v_y_f=a_ydt+v_y_i \\
 v_z_f=a_zdt+v_z_i
+\end{aligned}
 ```
 
 Newton's Second Law of Motion:
