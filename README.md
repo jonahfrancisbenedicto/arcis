@@ -2,7 +2,10 @@
 Simulates projectiles motion
 
 ## Math
-
+Position:
+```math
+p(t)=\begin{bmatrix} x \\ y \\ z \end{bmatrix}
+```
 
 
 ## Contributions

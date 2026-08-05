@@ -15,7 +15,7 @@ class Projectile:
     
     # Methods
     def step(self, delta_time: float) -> None:
-        
+        pass
 
     # Setter and Getter Methods
     def get_position(self) -> tuple[float, float, float]:
@@ -41,5 +41,3 @@ class Projectile:
 
     def set_mass(self, mass: float) -> None:
         self._mass = mass
-
-    
