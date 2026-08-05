@@ -7,6 +7,11 @@ Position:
 p(t)=\begin{bmatrix} x \\ y \\ z \end{bmatrix}
 ```
 
+Velocity:
+```math
+v(t)=\frac{dp}{dt}
+```
+
 
 ## Contributions
 This repository is maintained by @jonahfrancisbenedicto
