@@ -54,6 +54,17 @@ a_z&=-g
 \end{aligned}
 ```
 
+Acceleration:
+```math
+\begin{aligned}
+{v_x}_f&=0dt+{v_x}_i \\
+{v_x}_f&={v_x}_i \\
+{v_y}_f&=0dt+{v_y}_i \\
+{v_y}_f&={v_y}_i \\
+{v_z}_f&=-gdt+{v_z}_i \\
+\end{aligned}
+```
+
 ## Contributions
 This repository is maintained by @jonahfrancisbenedicto
 1. **Fork** the Project
